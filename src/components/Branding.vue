@@ -27,6 +27,6 @@ export default {
 @import '../styles/variable.less';
 
 :focus {
-    outline: 0 !important;
+    outline: 0 !important; //去除边框
 }
 </style>
